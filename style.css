@@ -1,0 +1,10 @@
+body {
+    background-color: blue;
+}
+
+div{
+    max-width: 40%;
+    margin: auto;
+    background-color: aquamarine;
+}
+
